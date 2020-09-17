@@ -1,7 +1,5 @@
 Recursos
 ========
-## Anatomia
-[Atlas of Human Anatomy 7th edition - Frank H. Netter](https://www.netterimages.com/book-Frank-H-Netter-MD-Anatomy-Atlas-7e-9780323393225.html)
 
 ## Página Web
 [Tutorial de Google Sites](https://sites.google.com/upch.pe/tutorial-pagina)
