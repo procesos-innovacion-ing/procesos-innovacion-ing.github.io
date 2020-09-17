@@ -23,6 +23,8 @@ Oscar Aguinaga
 
 
 
+![Alt text](/instructors/Alberto_Huanambal.jpg){:height="140px" width="140px"}
+
 Alberto Huanambal
 *e-mail | victor.huanambal.s@upch.pe*
-
+><div style="text-align: justify">Alberto Huanambal es magíster en Ingeniería Ambiental por la Escuela Politécnica Federal de Zúrich (ETH), Suiza, e Ingeniero Ambiental por la Universidad de California, Berkeley, EE.UU. Tiene más de cinco años de experiencia trabajando como consultor ambiental, principalmente en proyectos relacionados con remediación de aguas subterráneas contaminadas, caracterización ambiental y verificación de emisiones de gases de efecto invernadero. Sus últimos proyectos de investigación se han centrado en el tratamiento de agua. Como investigador en el Instituto Federal Suizo de Ciencia y Tecnología Acuática (Eawag) participó de un proyecto piloto de remoción de contaminantes emergentes utilizando ozono y carbón activado en una planta de tratamiento de aguas residuales en Suiza. En Eawag, además, evaluó métodos innovadores para medir la eficacia del proceso de desinfección de agua potable con luz ultravioleta. Actualmente, se desempeña como consultor ambiental y como docente de la carrera de Ingeniería Ambiental de la Universidad Peruana Cayetano Heredia.</div> 
