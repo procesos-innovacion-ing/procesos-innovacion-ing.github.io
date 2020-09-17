@@ -19,14 +19,10 @@ Luis Peña
 
 Oscar Aguinaga
 *e-mail | oscar.aguinaga@upch.pe*
-><div style="text-align: justify">
 
-</div> 
 
 
 
 Alberto Huanambal
 *e-mail | victor.huanambal.s@upch.pe*
-><div style="text-align: justify">
 
-</div> 
