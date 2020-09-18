@@ -24,8 +24,6 @@ Oscar Aguinaga
 *e-mail | oscar.aguinaga@upch.pe*
 
 
-
-
 ![Alt text](/instructors/Alberto_Huanambal.jpg){:height="140px" width="140px"}
 
 Alberto Huanambal
