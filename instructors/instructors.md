@@ -20,7 +20,7 @@ Luis Peña
 
 Oscar Aguinaga
 *e-mail | oscar.aguinaga@upch.pe*
-
+><div style="text-align: justify">Microbiólogo, doctor en Biotecnología con experiencia en nuevos métodos de análisis de microorganismos y metales pesados en ambientes impactados por efluentes domésticos e industriales. Asesor de empresas mineras, agroindustrias, consultoras ambientales y modelos de negocios en temas de biotecnología y remediación ambiental. Docente de la Universidad Peruana Cayetano Heredia. Profesor invitado en cursos de Biotecnología Ambiental de la UNMSM. Actualmente National Geographic Explorer a cargo de la evaluación de patógenos y metales en humedales RAMSAR.</div>
 
 ![Alt text](/instructors/Alberto_Huanambal.jpg){:height="140px" width="140px"}
 
